@@ -1,8 +1,7 @@
 ### Hi there 👋
 - I'm Lucas Abrantes, from Paraíba - Brazil.
-- Computer Science student at UFCG
-- Back-end developer with focus on Spring Boot and NodeJS
-- Currently working as Junior Analyst at Accenture
+- I'm a Computer Science graduate from UFCG
+- Work Experience with Java, Spring Boot, Apache Camel, JavaScript, Lua and another technologies.
 
 
 ### :computer: Social Media
