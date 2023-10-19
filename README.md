@@ -6,5 +6,5 @@
 
 ### :computer: Social Media
 - [LinkedIn](https://www.linkedin.com/in/lucas-silva-412295196/)
-- [Instagram](https://www.instagram.com/aabedess/)
+
 
